@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<timetable>
+    <trains>
+        <train id="1">
+            <from>Kiev</from>
+            <to>Lviv</to>
+            <date>19.12.2019</date>
+            <departure>15:05</departure>
+        </train>
+        <train id="2">
+            <from>Odessa</from>
+            <to>Kiev</to>
+            <date>19.12.2019</date>
+            <departure>20:05</departure>
+        </train>
+    </trains>
+</timetable>
